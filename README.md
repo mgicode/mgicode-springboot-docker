@@ -1,7 +1,7 @@
 #  Spring boot+docker 半自动化部署 
 
 微服务十分流行，基于微服务开发的项目越来越多。现在一般都使用springboot进行微服务开发，那么如何把spring boot开发的微服务部署到docker容器的上呢？有很多种解决方案。
-本文给出一种简单的方式，从小公司更实用的角度出发，先采用半自动化的方式来进行微服务的部署。然后过渡到gitlab+Jenkins这种全自动化的部署方案。
+本文给出一种简单的方式，从小公司更实用的角度出发，先采用半自动化的方式来进行微服务的部署。然后过渡到gitlab+Jenkins这种全自动化的部署方案。
 只要通过shell脚本，就可以直接把你开发的微服务发布你需要发布的服务器上。
 
 [Spring boot+docker 半自动化部署 （一）、引言 ](https://github.com/mgicode/mgicode-k8s-shell/blob/master/doc/01springboot-docker-starter.md)
